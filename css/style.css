@@ -1,5 +1,4 @@
 body::before{
-    overflow-x:hidden;
     display: block;
     content:'' ;
     height: 72px;
