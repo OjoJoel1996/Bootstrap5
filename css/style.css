@@ -1,4 +1,4 @@
-body::before{
+body{
     overflow-x:hidden;
     display: block;
     content:'' ;
